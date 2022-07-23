@@ -1,3 +1,6 @@
+![banner](https://github.com/fazeelkhalid/fazeelkhalid/blob/main/Banner.jpg)
+
+
 - 👋 Hi, I’m @fazeelkhalid
 - 👀 I’m interested in machine lerning and in AI
 - 🌱 I’m currently learning database and operating system
