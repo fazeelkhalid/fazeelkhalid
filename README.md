@@ -21,7 +21,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazeelkhalid&show_icons=true&theme=radical)
 
-<button href="#" class="large">Large Button</button>
+
 <!---
 fazeelkhalid/fazeelkhalid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
