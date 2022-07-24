@@ -4,7 +4,7 @@
  
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fazeelkhalid&custom_title=My Github Stats&count_private=true&show_icons=true&hide=prs,issues&theme=radical" alt="GitHub stats" width = 80% />
 
-<p align="center"> <img src="https://github-readme-stats-fazeelkhalid.vercel.app/api/top-langs/?username=fazeelkhalid&layout=compact&theme=cobalt&langs_count=20&exclude_repo=john-fotis,john-fotis.github.io,Database-design-and-usage" alt="Top Languages" width = 80% />
+<p align="center"> <img src="https://github-readme-stats-fazeelkhalid.vercel.app/api/top-langs/?username=fazeelkhalid&layout=compact&theme=cobalt&langs_count=10&exclude_repo=john-fotis,john-fotis.github.io,Database-design-and-usage" alt="Top Languages" width = 80% />
 
 
 #  💻 Expertise
@@ -21,6 +21,8 @@
 
   <span><img src="https://visitor-badge.glitch.me/badge?page_id=fazeelkhalid.visitor-badge&left_color=grey&right_color=green&left_text=Visitors" alt = "Visitors Badge" /></span>
 </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazeelkhalid&show_icons=true&theme=radical)
+
 
 <!---
 fazeelkhalid/fazeelkhalid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
