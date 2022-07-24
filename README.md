@@ -1,6 +1,8 @@
 ![banner](https://github.com/fazeelkhalid/fazeelkhalid/blob/main/Banner.jpg)
 
-
+<h1 align="center">Hi, I'm Fazeel !</h1>
+<p align="center">I'm a passsionate full stack developer based in Lahore, Pakistan,  who loves to create functional and elegant websites/apps.</p>
+ 
 - 👋 Hi, I’m @fazeelkhalid
 - 👀 I’m interested in machine lerning and in AI
 - 🌱 I’m currently learning database and operating system
