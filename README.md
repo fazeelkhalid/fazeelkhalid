@@ -5,6 +5,7 @@
  
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fazeelkhalid&custom_title=My Github Stats&count_private=true&show_icons=true&hide=prs,issues&theme=cobalt" alt="GitHub stats" width = 60% />
 
+<p align="center"> <img src="https://github-readme-stats-john-fotis.vercel.app/api/top-langs/?username=john-fotis&layout=compact&theme=cobalt&langs_count=6&exclude_repo=john-fotis,john-fotis.github.io,Database-design-and-usage" alt="Top Languages" width = 60% />
 
 - 👋 Hi, I’m @fazeelkhalid
 - 👀 I’m interested in machine lerning and in AI
