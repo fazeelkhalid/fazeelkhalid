@@ -3,6 +3,9 @@
 <h1 align="center">Hi, I'm Fazeel !</h1>
 <p align="center">I'm a passsionate full stack developer based in Lahore, Pakistan,  who loves to create functional and elegant websites/apps.</p>
  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fazeelkhalid&custom_title=My Github Stats&count_private=true&show_icons=true&hide=prs,issues&theme=cobalt" alt="GitHub stats" width = 60% />
+
+
 - 👋 Hi, I’m @fazeelkhalid
 - 👀 I’m interested in machine lerning and in AI
 - 🌱 I’m currently learning database and operating system
