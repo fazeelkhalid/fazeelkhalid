@@ -28,6 +28,6 @@ Here are some of the projects I have been working on recently
 #### ✔️ react, angular, ASP.Net
 
 <div align = "center">
-  <span><img src="https://visitor-badge.glitch.me/badge?page_id=fazeelkhalid.visitor-badge&left_color=grey&right_color=green&left_text=Total Visitors" alt = "Visitors Badge" /></span>
+  <span><img src="https://visitor-badge.glitch.me/badge?page_id=fazeelkhalid.visitor-badge&left_color=grey&right_color=green&left_text=Total_Visitors" alt = "Visitors Badge" /></span>
 
 </div>
