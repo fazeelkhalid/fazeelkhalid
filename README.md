@@ -6,6 +6,8 @@
 
 <p align="center"> <img src="https://github-readme-stats-john-fotis.vercel.app/api/top-langs/?username=fazeelkhalid&layout=compact&theme=cobalt&langs_count=10&exclude_repo=john-fotis,john-fotis.github.io,Database-design-and-usage" alt="Top Languages" width = 70% />
 
+
+
 ### Latest Projects 
 Here are some of the projects I have been working on recently
 
