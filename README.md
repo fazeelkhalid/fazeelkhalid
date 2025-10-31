@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** with **3+ years of industrial experience** building scalable web applications and integrating cutting-edge AI solutions. I specialize in creating robust backend systems and dynamic frontends, with a strong focus on modern frameworks and AI-powered features.
+I'm a **Full Stack Developer** with **4+ years of industrial experience** building scalable web applications and integrating cutting-edge AI solutions. I specialize in creating robust backend systems and dynamic frontends, with a strong focus on modern frameworks and AI-powered features.
 
 - 🔭 Currently working on **AI-integrated web applications** and **microservices architecture**
 - 🌱 Exploring **GPT integrations**, **LangChain**, and **AI automation**
